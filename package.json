@@ -12,5 +12,8 @@
     "Player"
   ],
   "author": "ayamir",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "videojs-vr": "^1.8.0"
+  }
 }
